@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="recipe_name">Brownies</string>
+    <string name="recipe_list_error_message">Failed to retrive recipe list.</string>
+    <string name="recipe">Recipe</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="step">Step</string>
+</resources>
